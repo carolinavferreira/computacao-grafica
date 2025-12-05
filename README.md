@@ -6,4 +6,4 @@
 
 ### 1.Criação de carris
 #### 1.3.MyTrack - Texturas
-![Screenshot 1](Screenshots/cgra-t09g06-proj-1.png)
+![Screenshot 1](cgra-t09g06-proj-1.png)
